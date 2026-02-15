@@ -11,8 +11,6 @@ A dynamic SVG animation that displays your GitHub contribution graph as a snake 
 <a name="howto"><a><a name="howto"><a>
 ## Dark Theme
 
-<img src="dist/github-contribution-grid-snake-dark.svg">
-
 ![Snake animation](https://github.com/dvlcbm-OnIG/dvlcbm-OnIG/blob/main/dist/github-contribution-grid-snake-dark.svg)
 
 ![Snake animation](https://github.com/dvlcbm-OnIG/dvlcbm-OnIG/blob/main/dist/github-contribution-grid-snake.svg)
