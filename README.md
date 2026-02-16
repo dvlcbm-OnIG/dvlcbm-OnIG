@@ -1,6 +1,13 @@
-# 💫 About Me:
-Self-taught web developer and BSIT student with hands-on experience building practical projects. Always learning, always improving.
-
+👋 Hey, I’m Russel
+Frontend developer (for now 👀) who enjoys breaking things just to understand how they work.
+Currently building with HTML, CSS, JavaScript, and sharpening my logic with C++ & C#.
+Deep diving into advanced JavaScript and modern web design — because clean UI is cool, but clean logic is cooler.
+🧠 I enjoy debugging more than I probably should.
+💻 Freelancing while grinding through college.
+🔐 Future cybersecurity or software engineer in the making.
+Traits: Logical. Curious. Dedicated.
+If I don’t know it yet, I’m probably learning it.
+Building skills quietly. Letting results speak loudly.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@russeljeoff143) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@dvlcbm) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@certifiedloverb0y222)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:russeljeoff2@gmail.com) 
