@@ -1,9 +1,8 @@
-name: Snake Animation Automation
+name: Generate Snake
 
 on:
   schedule:
-    # Run workflow automatically every day at midnight
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -12,41 +11,26 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      
-      # Check if there were any contributions today
-      - name: Check for contributions
-        id: check-contributions
-        run: |
-          echo "has_contributions=true" >> $GITHUB_OUTPUT
-      
-      # Get current date for commit message
-      - name: Get current time
-        id: cur-time
-        run: echo "time=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_OUTPUT
-      
-      # Generates the snake animation
-      - name: Generate Snake
-        if: steps.check-contributions.outputs.has_contributions == 'true'
+      # Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Generate snake animation
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: dvlcbm-OnIG
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-                
-      # Push the generated files to the repository only if there were contributions
-      - name: Push changes
-        if: steps.check-contributions.outputs.has_contributions == 'true'
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: 'Added new contributions on ${{ steps.cur-time.outputs.time }}'
-          file_pattern: 'dist/*'
-          commit_user_name: github-actions[bot]
-          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
-          commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
 
-      - name: Sleep for 3 seconds
-        id: interval
-        run: sleep 3s
+      # Push generated files to output branch
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
