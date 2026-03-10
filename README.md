@@ -9,7 +9,7 @@ I’m a first year IT student who enjoys building things and breaking them just 
 # 💻 Tech Stack:
    <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,css,html,python,c,cpp,cs,git,github,dotnet,vscode,visualstudio,linux,ubuntu&perline=12" />
+    <img src="https://skillicons.dev/icons?i=js,css,html,python,c,cpp,cs,git,github,dotnet,vscode,visualstudio&perline=12" />
   </a>
 </p>
 
