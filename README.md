@@ -4,7 +4,7 @@
   </a>
 </p>
 
-I’m a first year IT student who enjoys building things and breaking them just to understand how they work. I focus on frontend development using HTML, CSS, and JavaScript, while strengthening my problem solving skills with C++ and Python.
+I’m a first year IT student who enjoys coding, specifically in web development. I am eager to grow in tech by learning something new every day, teaching myself how to build things and solve problems. I learn programming for the love of the game. I dream. I question. I figure out. I build.
 
 # 💻 Tech Stack:
    <p>
