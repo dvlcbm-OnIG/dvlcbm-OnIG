@@ -7,12 +7,17 @@
 I’m a first year IT student who enjoys coding, specifically in web development. I am eager to grow in tech by learning something new every day, teaching myself how to build things and solve problems. I learn programming for the love of the game. I dream. I question. I figure out. I build.
 
 # 💻 Tech Stack:
-   <p>
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,css,html,python,c,cpp,cs,git,github,dotnet,vscode,visualstudio&perline=12" />
+    <img src="https://skillicons.dev/icons?i=js,css,html,python,c,cpp,cs&perline=12" />
   </a>
 </p>
-
+# 🛠️ Tools:
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,dotnet,vscode,visualstudio&perline=12" />
+  </a>
+</p>
 # 📱 Socials:
 <a href="https://www.facebook.com/share/1Futhqj4tU/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
