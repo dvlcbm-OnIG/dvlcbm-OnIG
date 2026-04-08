@@ -12,12 +12,14 @@ I’m a first year IT student who enjoys coding, specifically in web development
     <img src="https://skillicons.dev/icons?i=js,css,html,python,c,cpp,cs&perline=12" />
   </a>
 </p>
+
 # 🛠️ Tools:
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,dotnet,vscode,visualstudio&perline=12" />
   </a>
 </p>
+
 # 📱 Socials:
 <a href="https://www.facebook.com/share/1Futhqj4tU/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
