@@ -9,7 +9,7 @@ I’m a first year IT student who enjoys coding, specifically in web development
 # 💻 Tech Stack:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,css,html,python,c,cpp,cs,nodejs,monggodb&perline=12" />
+    <img src="https://skillicons.dev/icons?i=js,css,html,python,c,cpp,cs,nodejs,mongodb&perline=12" />
   </a>
 </p>
 
