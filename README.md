@@ -15,6 +15,7 @@ I’m a first year IT student who enjoys coding, specifically in web development
 
 # 🛠️ Tools:
 <p>
+   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vercel,dotnet,vscode,visualstudio&perline=12" />
     <img 
   src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" 
@@ -23,7 +24,7 @@ I’m a first year IT student who enjoys coding, specifically in web development
 />
   
 </p>
-
+</a>
 # 📱 Socials:
 <a href="https://www.facebook.com/share/1Futhqj4tU/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
