@@ -25,6 +25,7 @@ I’m a first year IT student who enjoys coding, specifically in web development
   
 </p>
 </a>
+
 # 📱 Socials:
 <a href="https://www.facebook.com/share/1Futhqj4tU/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
