@@ -38,6 +38,9 @@ I’m a first year IT student who enjoys coding, specifically in web development
 </a>
 
 ### 📊 GitHub Statistics
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dvlcbm-OnIG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=dvlcbm-OnIG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
