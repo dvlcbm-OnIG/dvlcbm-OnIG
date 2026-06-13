@@ -37,6 +37,7 @@ I’m a first year IT student who enjoys coding, specifically in web development
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
 
+### 📊 GitHub Statistics
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
@@ -44,6 +45,11 @@ I’m a first year IT student who enjoys coding, specifically in web development
     <img alt="GitHub contribution grid snake animation" 
          src="https://raw.githubusercontent.com/dvlcbm-OnIG/dvlcbm-OnIG/output/github-contribution-grid-snake.svg">
   </picture>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dvlcbm-OnIG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvlcbm-OnIG&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <div align="center">
