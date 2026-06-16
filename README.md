@@ -22,7 +22,7 @@ I’m a first year IT student who enjoys coding, specifically in web development
   height="48"
   style="border-radius: 12px; background-color: #fff; padding: 6px;"
 />
-<img src"https://skillicons.dev/icons?i=claudecode&perline=12"/>
+
   
 </p>
 </a>
