@@ -38,7 +38,6 @@ I’m a first year IT student who enjoys coding, specifically in web development
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
 
-### 📊 GitHub Statistics
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
