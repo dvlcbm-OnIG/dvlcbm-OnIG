@@ -48,7 +48,7 @@ I’m a first year IT student who enjoys coding, specifically in web development
 </p>
 
 <div align="center">
-  ![dvlcbm's Stats](https://github-readme-stats.vercel.app/api?username=dvlcbm-        OnIG&theme=merko&show_icons=true&hide_border=true&count_private=true)
+  ![dvlcbm's Status](https://github-readme-stats.vercel.app/api?username=dvlcbm-OnIG&theme=merko&show_icons=true&hide_border=true&count_private=true)
 
   ![dvlcbm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dvlcbm-OnIG&theme=radical&hide_border=true)
 <div align="center">
