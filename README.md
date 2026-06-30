@@ -37,12 +37,7 @@ I’m a first year IT student who enjoys coding, specifically in web development
 <a href="https://www.tiktok.com/@certifiedloverb0y222?_r=1&_t=ZS-94H59nNgcJU" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
-
-![dvlcbm's Stats](https://github-readme-stats.vercel.app/api?username=dvlcbm-OnIG&theme=merko&show_icons=true&hide_border=true&count_private=true)
-
-![dvlcbm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dvlcbm-OnIG&theme=radical&hide_border=true)
-<div align="center">
-  
+ 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
@@ -52,6 +47,12 @@ I’m a first year IT student who enjoys coding, specifically in web development
   </picture>
 </p>
 
+<div align="center">
+    ![dvlcbm's Stats](https://github-readme-stats.vercel.app/api?username=dvlcbm-        OnIG&theme=merko&show_icons=true&hide_border=true&count_private=true)
+
+  ![dvlcbm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dvlcbm-OnIG&theme=radical&hide_border=true)
+<div align="center">
+</div> 
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=dvlcbm-OnIG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
