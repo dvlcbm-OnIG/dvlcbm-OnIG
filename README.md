@@ -65,7 +65,8 @@ I’m a first year IT student who enjoys coding, specifically in web development
 <a href="https://www.tiktok.com/@certifiedloverb0y222?_r=1&_t=ZS-94H59nNgcJU" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
- 
+
+## 📊 Statistics
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
