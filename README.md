@@ -81,10 +81,13 @@
   ![dvlcbm's Status](https://github-readme-stats.vercel.app/api?username=dvlcbm-OnIG&theme=merko&show_icons=true&hide_border=true&count_private=true)
 
   ![dvlcbm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dvlcbm-OnIG&theme=radical&hide_border=true)
+
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=dvlcbm-OnIG&layout=compact&langs_count=4&theme=solarized-light)](https://github-stats-extended.vercel.app/api/top-langs?username=dvlcbm-OnIG&layout=compact&langs_count=4&theme=solarized-light)
 <div align="center">
 </div> 
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=dvlcbm-OnIG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvlcbm-OnIG&layout=compact&theme=tokyonight&hide_border=true" />
+  
 </p>
