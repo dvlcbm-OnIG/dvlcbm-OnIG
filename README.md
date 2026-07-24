@@ -82,7 +82,6 @@
 
   ![dvlcbm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dvlcbm-OnIG&theme=radical&hide_border=true)
 
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=dvlcbm-OnIG&layout=compact&langs_count=4&theme=solarized-light)](https://github-stats-extended.vercel.app/api/top-langs?username=dvlcbm-OnIG&layout=compact&langs_count=4&theme=solarized-light)
 <div align="center">
 </div> 
 
