@@ -88,7 +88,9 @@
 <p align="center">
   
   ![languages-pie](https://stats.pphat.top/languages?username=dvlcbm-OnIG&type=pie)
+ <!-- 
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=dvlcbm-OnIG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvlcbm-OnIG&layout=compact&theme=tokyonight&hide_border=true" />
   
+ -->
 </p>
