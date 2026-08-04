@@ -80,7 +80,7 @@
 
 <div align="center">
 
-  (https://github-readme-streak-stats.herokuapp.com/?user=dvlcbm-OnIG&theme=radical&hide_border=true)
+  !(https://github-readme-streak-stats.herokuapp.com/?user=dvlcbm-OnIG&theme=radical&hide_border=true)
 
 <div align="center">
 </div> 
