@@ -82,12 +82,12 @@
 
   ![dvlcbm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dvlcbm-OnIG&theme=radical&hide_border=true)
 
+  ![dvlcbm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dvlcbm-OnIG&theme=radical&hide_border=true)
+
 <div align="center">
 </div> 
 
 <p align="center">
-  
-  ![languages-pie](https://stats.pphat.top/languages?username=dvlcbm-OnIG&type=pie)
   
   ![languages-pie](https://stats.pphat.top/languages?username=dvlcbm-OnIG&type=pie)
   
