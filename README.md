@@ -80,9 +80,7 @@
 
 <div align="center">
 
-  ![dvlcbm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dvlcbm-OnIG&theme=radical&hide_border=true)
-
-  ![dvlcbm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dvlcbm-OnIG&theme=radical&hide_border=true)
+  (https://github-readme-streak-stats.herokuapp.com/?user=dvlcbm-OnIG&theme=radical&hide_border=true)
 
 <div align="center">
 </div> 
