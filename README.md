@@ -41,7 +41,7 @@ An aspiring Software Engineer/Cybersecurity Engineer
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
   <img src="https://img.shields.io/badge/Tailwindcss-00a6f4?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/Postgre-ffffff?style=for-the-badge&logo=postgresql&logoColor=blue">
-  <img src="https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=blue">
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=blue">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   
 </p>
