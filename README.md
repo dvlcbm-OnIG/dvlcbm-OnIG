@@ -56,10 +56,28 @@ An aspiring Software Engineer/Cybersecurity Engineer
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white">-->
-   <img src="https://skillicons.dev/icons?i=git,github,vercel,dotnet,vscode,visualstudio,postman&perline=12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="48" style="border-radius: 12px; background-color: #fff; padding: 6px;" title="ChatGPT" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAsBofru2yFMG9VSinsyoRNufVQu9Tt4DPu-pFGpMQmJMbmtaZCww1eTXM&s=10" height="48" style=" border: 1px solid white; border-radius: 25%; background-color: black; padding: 6px;" title="Render"/>
-  <img src="https://avatars.githubusercontent.com/u/77690634?v=4" height="48" style=" border: 1px solid white; border-radius: 25%; background-color: #fff; padding: 6px;"  title="Neon"/>
+   <img src="https://skillicons.dev/icons?i=git" height="48" title="Git">
+<img src="https://skillicons.dev/icons?i=github" height="48" title="GitHub">
+<img src="https://skillicons.dev/icons?i=vercel" height="48" title="Vercel">
+<img src="https://skillicons.dev/icons?i=dotnet" height="48" title=".NET">
+<img src="https://skillicons.dev/icons?i=vscode" height="48" title="VS Code">
+<img src="https://skillicons.dev/icons?i=visualstudio" height="48" title="Visual Studio">
+<img src="https://skillicons.dev/icons?i=postman" height="48" title="Postman">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg"
+     height="48"
+     style="border-radius: 12px; background-color: #fff; padding: 6px;"
+     title="ChatGPT">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAsBofru2yFMG9VSinsyoRNufVQu9Tt4DPu-pFGpMQmJMbmtaZCww1eTXM&s=10"
+     height="48"
+     style="border: 1px solid white; border-radius: 25%; background-color: black; padding: 6px;"
+     title="Render">
+
+<img src="https://avatars.githubusercontent.com/u/77690634?v=4"
+     height="48"
+     style="border: 1px solid white; border-radius: 25%; background-color: #fff; padding: 6px;"
+     title="Neon">
    
   
 </p>
