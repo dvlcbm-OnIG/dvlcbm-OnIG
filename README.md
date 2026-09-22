@@ -68,18 +68,15 @@ An aspiring Software Engineer/Cybersecurity Engineer
      height="48"
      style="border-radius: 12px; background-color: #fff; padding: 6px;"
      title="ChatGPT">
-
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAsBofru2yFMG9VSinsyoRNufVQu9Tt4DPu-pFGpMQmJMbmtaZCww1eTXM&s=10"
      height="48"
      style="border: 1px solid white; border-radius: 25%; background-color: black; padding: 6px;"
      title="Render">
-
 <img src="https://avatars.githubusercontent.com/u/77690634?v=4"
      height="48"
      style="border: 1px solid white; border-radius: 25%; background-color: #fff; padding: 6px;"
      title="Neon">
    
-  
 </p>
   
 </p>
