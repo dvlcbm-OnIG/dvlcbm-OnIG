@@ -56,25 +56,45 @@ An aspiring Software Engineer/Cybersecurity Engineer
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white">-->
-   <img src="https://skillicons.dev/icons?i=git" height="48" title="Git">
+   <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
+  <img src="https://skillicons.dev/icons?i=git" height="48" title="Git">
+</a>
+<a href="https://github.com/" target="_blank" style="text-decoration: none;">
   <img src="https://skillicons.dev/icons?i=github" height="48" title="GitHub">
+</a>
+<a href="https://vercel.com/" target="_blank" style="text-decoration: none;">
   <img src="https://skillicons.dev/icons?i=vercel" height="48" title="Vercel">
+</a>
+<a href="https://dotnet.microsoft.com/" target="_blank" style="text-decoration: none;">
   <img src="https://skillicons.dev/icons?i=dotnet" height="48" title=".NET">
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none;">
   <img src="https://skillicons.dev/icons?i=vscode" height="48" title="VS Code">
+</a>
+<a href="https://visualstudio.microsoft.com/" target="_blank" style="text-decoration: none;">
   <img src="https://skillicons.dev/icons?i=visualstudio" height="48" title="Visual Studio">
+</a>
+<a href="https://www.postman.com/" target="_blank" style="text-decoration: none;">
   <img src="https://skillicons.dev/icons?i=postman" height="48" title="Postman">
+</a>
+<a href="https://chatgpt.com/" target="_blank" style="text-decoration: none;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg"
-     height="48"
-     style="border-radius: 12px; background-color: #fff; padding: 6px;"
-     title="ChatGPT">
+       height="48"
+       style="border-radius: 12px; background-color: #fff; padding: 6px;"
+       title="ChatGPT">
+</a>
+<a href="https://render.com/" target="_blank" style="text-decoration: none;">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAsBofru2yFMG9VSinsyoRNufVQu9Tt4DPu-pFGpMQmJMbmtaZCww1eTXM&s=10"
-     height="48"
-     style="border: 1px solid white; border-radius: 25%; background-color: black; padding: 6px;"
-     title="Render">
+       height="48"
+       style="border: 1px solid white; border-radius: 25%; background-color: black; padding: 6px;"
+       title="Render">
+</a>
+<a href="https://neon.tech/" target="_blank" style="text-decoration: none;">
   <img src="https://avatars.githubusercontent.com/u/77690634?v=4"
-     height="48"
-     style="border: 1px solid white; border-radius: 25%; background-color: #fff; padding: 6px;"
-     title="Neon">
+       height="48"
+       style="border: 1px solid white; border-radius: 25%; background-color: #fff; padding: 6px;"
+       title="Neon">
+</a>
    
 </p>
   
