@@ -59,6 +59,7 @@ An aspiring Software Engineer/Cybersecurity Engineer
    <img src="https://skillicons.dev/icons?i=git,github,vercel,dotnet,vscode,visualstudio,postman&perline=12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="48" style="border-radius: 12px; background-color: #fff; padding: 6px;" />
   <img src="https://cdn-1.webcatalog.io/catalog/render/render-icon-filled-256.png?v=1714775659827" height="48" style=" border: 1px solid black; border-radius: 25%; background-color: black; padding: 6px;" />
+  <img src="https://avatars.githubusercontent.com/u/77690634?v=4" height="48" style=" border: 1px solid black; border-radius: 25%; background-color: #fff; padding: 6px;" />
    
   
 </p>
