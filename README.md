@@ -96,7 +96,7 @@ An aspiring Software Engineer/Cybersecurity Engineer
        title="Neon">
 </a>
    
-  <a href="https://neon.tech/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.apachefriends.org/" target="_blank" style="text-decoration: none;">
   <img src="https://images.seeklogo.com/logo-png/27/1/xampp-logo-png_seeklogo-274098.png"
        height="48"
        style="border: 1px solid white; border-radius: 25%; background-color: #fff; padding: 6px;"
