@@ -1,9 +1,9 @@
-# Hello, World! I’m Russel 👋 <p align="center">
+# Hello, World! I’m Russel 👋 <a href="https://visitorbadge.io/status?path=dvlcbm-OnIG">
+    <img src="https://api.visitorbadge.io/api/visitors?path=dvlcbm-OnIG&label=viewer&labelColor=%23697689&countColor=%23d9e3f0"/>
+  </a> <p align="center">
 ### An aspiring Software Engineer/AI Engineer 
 
-  <a href="https://visitorbadge.io/status?path=dvlcbm-OnIG">
-    <img src="https://api.visitorbadge.io/api/visitors?path=dvlcbm-OnIG&label=viewer&labelColor=%23697689&countColor=%23d9e3f0"/>
-  </a>
+  
 </p>
 
 <!-- I’m a first year IT student who enjoys coding, specifically in web development. I am eager to grow in tech by learning something new every day, teaching myself how to build things and solve problems. I learn programming for the love of the game. I dream. I question. I figure out. I build. -->
