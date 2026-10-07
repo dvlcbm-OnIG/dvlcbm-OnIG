@@ -1,5 +1,4 @@
 # Hello, World! I’m Russel 👋 <a href="https://visitorbadge.io/status?path=dvlcbm-OnIG">
-
 ### An aspiring Software Engineer/AI Engineer 
 
 <img src="https://api.visitorbadge.io/api/visitors?path=dvlcbm-OnIG&label=viewer&labelColor=%23697689&countColor=%23d9e3f0"/>
