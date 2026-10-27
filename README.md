@@ -97,7 +97,7 @@
   <img src="https://www.finsmes.com/wp-content/uploads/2026/06/Supabase.jpg"
        height="48"
        style="border: 1px solid white; border-radius: 25%; background-color: #fff; padding: 6px;"
-       title="Neon">
+       title="Supabase">
 </a>
    
   <a href="https://www.apachefriends.org/" target="_blank" style="text-decoration: none;">
