@@ -94,7 +94,7 @@
        title="Neon">
 </a>
 <a href="https://supabase.com/" target="_blank" style="text-decoration: none;">
-  <img src="https://www.finsmes.com/wp-content/uploads/2026/06/Supabase.jpg"
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTutQDHH6m_Ip2FVaq2ohdc7YWKqn2c2Cyzg1VO4WLkJeMrUvk8mNcJrgA&s=10"
        height="48"
        style="border: 1px solid white; border-radius: 25%; background-color: #fff; padding: 6px;"
        title="Supabase">
