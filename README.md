@@ -93,6 +93,12 @@
        style="border: 1px solid white; border-radius: 25%; background-color: #fff; padding: 6px;"
        title="Neon">
 </a>
+  <a href="https://supabase.com/" target="_blank" style="text-decoration: none;">
+  <img src="https://www.finsmes.com/wp-content/uploads/2026/06/Supabase.jpg"
+       height="48"
+       style="border: 1px solid white; border-radius: 25%; background-color: #fff; padding: 6px;"
+       title="Neon">
+</a>
    
   <a href="https://www.apachefriends.org/" target="_blank" style="text-decoration: none;">
   <img src="https://images.seeklogo.com/logo-png/27/1/xampp-logo-png_seeklogo-274098.png"
