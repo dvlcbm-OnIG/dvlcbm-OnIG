@@ -24,6 +24,13 @@
   style="border-radius: 12px; background-color: #fff; padding: 6px;"
 />
 -->
+## 🌐 Featured Project
+
+### [MERNExplorer.dev](https://mernexplorerdev.vercel.app/)
+
+A beginner-friendly learning platform I built to introduce full-stack web development and explore the MERN stack, one concept at a time.
+
+[**Explore the Website →**](https://mernexplorerdev.vercel.app/)
 
 ## 🚀 Tech Stack
 
