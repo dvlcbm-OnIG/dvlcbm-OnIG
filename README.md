@@ -31,8 +31,8 @@
 A beginner-friendly platform for learning full-stack web development and the MERN stack.
 
 <p>
-  <a href="https://mernexplorerdev.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit_Website-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+  <a href="https://mernexplorerdev.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <strong>↗ Live Demo</strong>
   </a>
 </p>
 
