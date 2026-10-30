@@ -28,9 +28,13 @@
 
 ### [MERNExplorer.dev](https://mernexplorerdev.vercel.app/)
 
-A beginner-friendly learning platform I built to introduce full-stack web development and explore the MERN stack, one concept at a time.
+A beginner-friendly platform for learning full-stack web development and the MERN stack.
 
-[**Explore the Website →**](https://mernexplorerdev.vercel.app/)
+<p>
+  <a href="https://mernexplorerdev.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Website-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+  </a>
+</p>
 
 ## 🚀 Tech Stack
 
