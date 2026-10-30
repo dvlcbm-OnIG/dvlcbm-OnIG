@@ -26,13 +26,16 @@
 -->
 ## 🌐 Featured Project
 
-### [MERNExplorer.dev](https://mernexplorerdev.vercel.app/)
+### MERNExplorer.dev
 
 A beginner-friendly platform for learning full-stack web development and the MERN stack.
 
 <p>
-  <a href="https://mernexplorerdev.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <strong>↗ Live Demo</strong>
+  <a href="https://mernexplorerdev.vercel.app/"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="text-decoration: none; color: inherit;">
+    <strong>Live Demo</strong>
   </a>
 </p>
 
