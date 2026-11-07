@@ -24,7 +24,7 @@
   style="border-radius: 12px; background-color: #fff; padding: 6px;"
 />
 -->
-## 🌐 Featured Project
+## Featured Project
 
 ### MERNExplorer.dev
 
@@ -39,7 +39,7 @@ A beginner-friendly platform for learning full-stack web development and the MER
   </a>
 </p>
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p>
   
@@ -58,7 +58,7 @@ A beginner-friendly platform for learning full-stack web development and the MER
   
 </p>
 
-## 🛠️ Tools
+## Tools
 
 <p>
  <!-- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
