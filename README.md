@@ -125,7 +125,7 @@ A beginner-friendly platform for learning full-stack web development and the MER
 </p>
 </a>
 
-## 📱 Socials
+## Socials
 <a href="https://www.facebook.com/share/1Futhqj4tU/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
@@ -136,7 +136,7 @@ A beginner-friendly platform for learning full-stack web development and the MER
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
 
-## 📊 Statistics
+## Statistics
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
